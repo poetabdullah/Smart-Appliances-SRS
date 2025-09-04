@@ -54,11 +54,6 @@ The included **SRS document** serves as a complete blueprint for developers and 
 
 A **static prototype** (built with **Figma**) is included to illustrate the **UI/UX design** and **user interactions**.
 
-![Prototype Screenshot Placeholder](https://via.placeholder.com/800x400?text=Prototype+Preview)
-
-👉 Explore it in: `prototype/`
-
----
 
 ## 🏗️ System Architecture
 
@@ -89,19 +84,6 @@ The Smart Appliances platform follows a **multi-layered design**:
 ## 🤝 Contributing
 
 We welcome contributions to enhance the **SRS, prototype, or implementation**.
-
-1. Fork the repo
-2. Create a feature branch:
-
-   ```bash
-   git checkout -b feature-new-idea
-   ```
-3. Commit changes:
-
-   ```bash
-   git commit -m "Add feature"
-   ```
-4. Push & open a **Pull Request**
 
 📌 Areas to contribute:
 
